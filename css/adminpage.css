@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+
+.part1{
+    text-align: center;
+}
+.navbar{
+    text-align: center;
+}
+.tab{
+    align-items: center;
+    text-align: center;
+}
+.table{
+    text-align: center;
+}
+
+.btn btn-primary{
+    align-items: center;
+    text-align: center;
+}

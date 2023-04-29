@@ -1,0 +1,52 @@
+.form {
+    background-color: #c8e5e9;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 570px;
+    padding: 30px;
+    width: 400px;
+    align-items: center;
+  }
+  .formt{
+      text-align: left;
+  }
+
+ h2 {
+    color: #08111f;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 30px;
+  }
+
+  .center {
+    margin: auto;
+    width: 30%;
+    border: 2px solid #c8e5e9;
+    border-radius: 5%;
+    padding: 25px;
+  }
+
+.part3{
+    background-color: #c8e5e9;
+    border-radius: 30px;
+    box-sizing: border-box;
+    height: 100px;
+    padding: 20px;
+    width: 320px;
+    text-align: center;
+    align-items: center;
+}
+
+.inputs{
+    font-size: 16px;
+    font-weight: 700px;
+}
+
+.btnnn mt-3 mb-5n {
+    transition-duration: 0.5s;
+  }
+  
+  .btnnn mt-3 mb-5:hover {
+    background-color: #14a9d6;
+    color: white;
+  }

@@ -1,0 +1,14 @@
+h2{
+    color: rgb(41, 157, 192);
+}
+
+.table table-striped{
+    padding: auto;
+    text-align: center;
+    align-items: center;
+}
+
+.table_container{
+    padding: 20px;
+    margin: 20px;
+}
